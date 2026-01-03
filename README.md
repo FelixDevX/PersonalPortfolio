@@ -116,35 +116,4 @@ The app will be available at:
 
 http://localhost:5173
 
-🌐 Deployment
 
-This project is deployed using Lovable.
-
-To deploy your own version:
-
-Open the project in Lovable
-
-Click Share → Publish
-
-(Optional) Connect a custom domain via Project → Settings → Domains
-
-📸 Screenshots
-
-(Add screenshots of Home, Product Page, Cart, and Checkout here for better portfolio impact)
-
-🎯 Purpose of This Project
-
-✔ Internship Task
-✔ Portfolio Project
-✔ Real-World E-Commerce Simulation
-✔ Demonstrates React, State Management & UI Skills
-
-👤 Author
-
-Felix Lingam
-Computer Science Engineering Student
-Aspiring Full-Stack Developer
-
-📫 GitHub: https://github.com/FelixDevX
-
-💼 LinkedIn:https://www.linkedin.com/in/felix-lingam-9354b327a/?originalSubdomain=in
