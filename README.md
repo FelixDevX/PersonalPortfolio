@@ -3,7 +3,7 @@
 A modern, responsive mini e-commerce platform built as part of a real-world internship / portfolio project.
 This project demonstrates frontend + state management + checkout flow, similar to applications used by startups and freelance clients.
 
-🔗 Live Website: https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID
+🔗 Live Website: https://personal-portfolio-psi-three-52.vercel.app/
 
 📦 GitHub Repository: (this repository)
 
