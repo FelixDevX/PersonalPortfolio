@@ -5,7 +5,7 @@ This project demonstrates frontend + state management + checkout flow, similar t
 
 🔗 Live Website: https://personal-portfolio-psi-three-52.vercel.app/
 
-📦 GitHub Repository: (this repository)
+📦 GitHub Repository:https://github.com/FelixDevX/PersonalPortfolio
 
 📌 Project Overview
 
